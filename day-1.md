@@ -15,6 +15,6 @@ ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output
 $x^2$
 
 $$
-\frac{c}{t}=\binom{p}{1}
+\frac{c}{t} = \binom{p}{1}
 $$
 c represents number of correct answers, t represents total questions, and p represents percent.
