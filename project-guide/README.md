@@ -6,7 +6,10 @@ A journal used to learn markdown formatting in GitHub.
 
 ## Features
 
-Headings, lists, images, and LaTeX.
+- Headings
+- Lists
+- Images
+- LaTeX
 
 ## Contents
 
