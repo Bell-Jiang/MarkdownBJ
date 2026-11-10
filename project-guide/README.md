@@ -46,6 +46,8 @@ For formatted reading, open the Preview tab. Check or uncheck tasks by editing t
 
 ## Expected Output
 
+There are multiple levels of headings. Each level displays text at a different size.
+
 ```text
 # Daily Learning
 
