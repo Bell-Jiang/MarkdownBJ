@@ -66,7 +66,7 @@ There are multiple levels of headings. Each level displays text at a different s
 
 ## Contributing
 
-Click the branch button and then the new branch button to create a new branch. Click the Preview button while editing to preview markdown. Click links in Preview mode to check links.
+Click the branch button and then the new branch button to create a new branch. Click the Preview button while editing to preview markdown. Click links in Preview mode to check links. Make sure to open a pull request with a useful description.
 
 ## Support
 
