@@ -2,7 +2,7 @@
 
 ## Overview
 
-A journal used to learn markdown formatting in GitHub. There are no TODO, TBD, example.com or replacement placeholders.
+A journal used to learn markdown formatting in GitHub.
 
 ## Features
 
