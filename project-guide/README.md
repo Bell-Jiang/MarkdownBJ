@@ -20,6 +20,9 @@ A journal used to learn markdown formatting in GitHub.
 - [Usage](#usage)
 - [Expected Output](#expected-output)
 - [Project Files](#project-files)
+- [Contributing](#contributing)
+- [Support](#support)
+- [License](#license)
 
 ## Prerequisites
 
@@ -60,3 +63,15 @@ There are multiple levels of headings. Each level displays text at a different s
 | --- | --- |
 | [Journal](../day-1.md) | Daily plans, code samples, and learning metrics |
 | [Project README](README.md) | Setup and usage instructions |
+
+## Contributing
+
+Click the branch button and then the new branch button to create a new branch. Click the Preview button while editing to preview markdown. Click links in Preview mode to check links.
+
+## Support
+
+View issues [here](https://github.com/Bell-Jiang/MarkdownBJ/issues/). Include the lesson number, attempted action, and error message.
+
+## License
+
+This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions.
