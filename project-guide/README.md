@@ -23,6 +23,8 @@ A journal used to learn markdown formatting in GitHub.
 - [Contributing](#contributing)
 - [Support](#support)
 - [License](#license)
+- [Troubleshooting](#troubleshooting)
+- [Review Checklist](#review-checklist)
 
 ## Prerequisites
 
@@ -75,3 +77,14 @@ View issues [here](https://github.com/Bell-Jiang/MarkdownBJ/issues/). Include th
 ## License
 
 This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions.
+
+## Troubleshooting
+
+To fix ```bash cat: day-1.md: No such file or directory```, enter the cloned repository folder and check that the journal exists on the selected branch.
+
+## Review Checklist
+
+- [x] Confirmed the purpose, audience, and feature descriptions are accurate.
+- [x] Followed setup and usage instructions and compared the result.
+- [x] Tested Contents and file links and checked image alternative text.
+- [x] Verified contribution, support, and license information.
