@@ -35,7 +35,7 @@ Use a web browser to read the journal on GitHub.
 Run these commands in a terminal to download the repository.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/skills-communicate-using-markdown.git
+git clone https://github.com/Bell-Jiang/skills-communicate-using-markdown.git
 cd skills-communicate-using-markdown
 ```
 
