@@ -17,4 +17,5 @@ $x^2$
 $$
 \frac{c}{t} = \binom{p}{1}
 $$
+
 c represents number of correct answers, t represents total questions, and p represents percent.
